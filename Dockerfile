@@ -1,6 +1,6 @@
 FROM quay.io/vektorcloud/glibc:latest
 
-ENV GRAFANA_PACKAGE grafana-4.1.2-1486989747.linux-x64.tar.gz 
+ENV GRAFANA_PACKAGE grafana-4.4.1.linux-x64.tar.gz 
 
 RUN set -ex \
  && apk add --no-cache openssl fontconfig bash curl \
