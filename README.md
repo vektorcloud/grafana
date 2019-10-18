@@ -3,4 +3,4 @@
 ![circleci][circleci]
 Tiny Alpine image for running Grafana
 
-[circleci]: https://img.shields.io/circleci/project/github/vektorcloud/grafana.svg "grafana"
+[circleci]: https://img.shields.io/circleci/build/gh/vektorcloud/grafana?color=1dd6c9&logo=CircleCI&logoColor=1dd6c9&style=for-the-badge "grafana"
